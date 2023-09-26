@@ -1,0 +1,19 @@
+{
+    "name": "svg-logo-gen",
+    "main": "index.js",
+    "directories": {
+        "example": "example",
+        "library": "library"
+    },
+    "scripts": {
+        "test": "test"
+        
+    },
+    "repository": {
+        "type": "git"
+    },
+    "author": "patricketienne777",
+    "dependencies": {
+        "inquirer": "^9.2.11"
+    }
+}
